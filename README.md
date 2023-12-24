@@ -14,7 +14,6 @@ This Python script is designed to check if a CP210x USB UART Bridge is alive by 
 
    ```bash
    pip install pyserial
-   ```bash
 
    1. replace the tty device name /dev/ttyUSB0
    tty name can be checked using ```bash sudo dmesg ```bash
